@@ -1,4 +1,6 @@
 # uas
+Nama : Khairul Amri Matondang
+NPM  : 213510187
 
 ## Project setup
 ```
